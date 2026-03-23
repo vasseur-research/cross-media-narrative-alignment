@@ -1,0 +1,51 @@
+# Core data science
+numpy>=1.24
+pandas>=1.5
+scipy>=1.10
+
+# NLP / ML
+torch>=2.0
+transformers>=4.30
+sentence-transformers>=2.2
+bertopic>=0.15
+hdbscan>=0.8.29
+umap-learn>=0.5
+scikit-learn>=1.2
+
+# Visualization
+matplotlib>=3.7
+seaborn>=0.12
+yellowbrick>=1.5
+
+# Web scraping
+requests>=2.28
+beautifulsoup4>=4.12
+lxml>=4.9
+
+# MongoDB
+pymongo>=4.3
+
+# Country code conversion
+country-converter>=1.0
+
+# Date parsing
+python-dateutil>=2.8
+
+# Local LLM inference (Ollama Python client)
+ollama>=0.1
+
+# HuggingFace Hub (for gated model access)
+huggingface-hub>=0.14
+
+# Text splitting
+langchain-text-splitters>=0.0.1
+
+# Statistical modeling
+statsmodels>=0.14
+
+# Multiple testing correction (included in statsmodels)
+# Rich console output
+rich>=13.0
+
+# Translation (optional, used in NER trigraph conversion)
+# translators>=5.0
